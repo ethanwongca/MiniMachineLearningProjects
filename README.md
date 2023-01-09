@@ -1,5 +1,8 @@
 # ML Projects
+<h2> Objective </h2>
 Mini Machine Learning projects I did to learn ML. From linear regression, convolutional neural networks, q-learning, k-means etc.
+
+<h2> Projects <h2/>
 
 <h3> Linear Regression Projects </h3>
 
