@@ -24,4 +24,4 @@ I also made a Q-Learning project here I used gym, numpy, and Bellman's equations
 
 <h3> Google Gym Atari Games </h3>
 
-I used reinforcement learning with Atari games. 
+I used reinforcement learning with Atari games. This was acquired from using Google Gym
