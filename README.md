@@ -20,8 +20,8 @@ Using the fashion MNIST I made a convolutional neural network that can determine
 
 <h3> Q-Learning </h3>
 
-I also made a Q-Learning project here I used gym, numpy, and Bellman's equations to make the computer when at a taxi game. I also did a similar thing with space invaders
+I also made a Q-Learning project here I used gym, numpy, and Bellman's equations to make the computer when at a taxi game. I also did a similar thing with space invaders.
 
 <h3> Google Gym Atari Games </h3>
 
-I used reinforcement learning with Atari games. This was acquired from using Google Gym
+I used reinforcement learning with Atari games. This was acquired from using Google Gym.
