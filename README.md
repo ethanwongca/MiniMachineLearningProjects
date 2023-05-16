@@ -12,11 +12,11 @@ I also did similar with titanic data. Other libraries that were used are pandas,
 
 <h3> K-Means Model </h3>
 
-I made a K-Means model to test with sklearn as well. And the libraries mentioned before/
+I made a K-Means model to test with sklearn and the libraries mentioned above. 
 
 <h3> Convolutional Neural Network Project </h3>
 
-Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. I also used sklearn, pandas, seaborn, matplotlib, and numpy as well.
+Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. I also used sklearn, pandas, seaborn, matplotlib, and numpy to help visualize the data needed. 
 
 <h3> Q-Learning </h3>
 
