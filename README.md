@@ -16,7 +16,10 @@ I made a K-Means model to test with sklearn and the libraries mentioned above.
 
 <h3> Convolutional Neural Network Project </h3>
 
-Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. I also used sklearn, pandas, seaborn, matplotlib, and numpy to help visualize the data needed. 
+Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. I also used sklearn, pandas, seaborn, matplotlib, and numpy to help visualize the data needed.
+This is the result of the accuracy and percision. 
+  <img width="414" alt="Screenshot 2023-05-31 at 1 16 16 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/5804498a-57e5-4288-ad83-4c8db9c11e3e">
+
 
 <h3> Q-Learning </h3>
 
