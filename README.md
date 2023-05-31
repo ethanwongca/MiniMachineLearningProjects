@@ -43,7 +43,8 @@ The following projects I did to learn the basics of some machine learning, and t
   
 <strong>Libraries</strong>: Keras Sequential Model (Layers: Dense, Dropout, Concetenate), Google Gym, Numpy
   
-<strong>Projects</strong>: I used reinforcement learning with Atari games. This was acquired from using Google Gym.<img width="244" alt="Screenshot 2023-05-31 at 1 24 24 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/bc5562cf-f30d-4cd0-b1d3-ef647ef381ca">
+<strong>Projects</strong>: I used reinforcement learning with Atari games. This was acquired from using Google Gym. <br>
+<img width="244" alt="Screenshot 2023-05-31 at 1 24 24 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/bc5562cf-f30d-4cd0-b1d3-ef647ef381ca">
 <img width="695" alt="Screenshot 2023-05-31 at 1 24 19 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/10d3500c-bb96-4757-8fe0-ea5217f6eece">
 
   
