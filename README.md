@@ -17,7 +17,7 @@ The following projects I did to learn the basics of some machine learning, and t
 
 <strong>Libraries</strong>: Seaborn, MatPlotLib, SkLearn
   
-<strong>Projects</strong>: This project I had an array of data, and given the array I had created a k-means model to group this data in four seperate compartments. 
+<strong>Projects</strong>: This project I had an array of data, and given the array I had created a k-means model to group this data in four seperate compartments. <br>
 <img width="702" alt="k-means" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/7a34d9ff-2731-41ec-94f4-b40512c854bf">
 
 
@@ -25,7 +25,7 @@ The following projects I did to learn the basics of some machine learning, and t
 
 <strong>Libraries</strong>: Pandas, Numpy, MatPlotLib, Seaborn, Random, and TensorFlow 
   
-<strong>Projects</strong>: Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. 
+<strong>Projects</strong>: Using the fashion MNIST I made a convolutional neural network that can determine different types of articles of clothing. I used a 30/70 testing and training set. In this project I used the library Keras from tensorflow. <br>
 <img width="414" alt="Screenshot 2023-05-31 at 1 16 16 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/5804498a-57e5-4288-ad83-4c8db9c11e3e">
 <img width="564" alt="Screenshot 2023-05-31 at 1 19 25 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/e616bd97-c7ea-4753-aace-537e6ed84baf">
 
@@ -34,7 +34,7 @@ The following projects I did to learn the basics of some machine learning, and t
   
 <strong>Libraries</strong>: Gym, Numpy
   
-<strong>Projects</strong>: I also made a Q-Learning project here I used gym, numpy, and Bellman's equations to make the computer win a specific taxi game, and score the highest possible score. 
+<strong>Projects</strong>: I also made a Q-Learning project here I used gym, numpy, and Bellman's equations to make the computer win a specific taxi game, and score the highest possible score. <br>
 <img width="202" alt="Screenshot 2023-05-31 at 1 23 18 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/9a09cd02-c9c9-420c-a92d-aab86385b828">
 <img width="174" alt="Screenshot 2023-05-31 at 1 23 29 AM" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/8f0bc208-4f2d-4915-9177-b031141e79f2">
 
