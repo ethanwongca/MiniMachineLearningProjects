@@ -7,9 +7,9 @@ The following projects I did to learn the basics of some machine learning, and t
   
 <strong>Libraries</strong>: SkLearn, Pandas, Seaborn MatPlotLib, and Numpy  
 
-<strong>Projects</strong>: Two projects were done related to linear regression. One was predicting housing prices in boston, while the other was predicting the survival of people on the titanic. Here are some imaages ot the titanic project below. I used a 70%-30% test and validation sets. 
+<strong>Projects</strong>: Two projects were done related to linear regression. One was predicting housing prices in boston, while the other was predicting the survival of people on the titanic. Here are some imaages ot the titanic project below. I used a 70%-30% test and validation sets. <br>
 
-<img width="325" alt="Titanic Data" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/f6856a7c-d2ea-4bf1-8152-edfd076f1b21">
+<img width="325" alt="Titanic Data" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/f6856a7c-d2ea-4bf1-8152-edfd076f1b21"> 
 <img width="383" alt="Titanic Results" src="https://github.com/ethanwongca/MiniMachineLearningProjects/assets/87055387/5bfd4365-1cc8-4c6d-a1b6-9e62cc5b8b5a">
 
   
